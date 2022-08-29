@@ -20,5 +20,3 @@ L.circleMarker([34.0522, -118.2437], {
 
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
-// Then we add our 'graymap' tile layer to the map.
-streets.addTo(map);
